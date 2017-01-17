@@ -1,2 +1,4 @@
-# The-beginning
-A start in gethub world
+#include<string>
+ HEllo 
+ A
+ program for numeric conversion
