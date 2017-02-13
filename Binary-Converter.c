@@ -16,7 +16,7 @@ do{
     sum=sum+mod*mul;
     mul=mul*10;
 }while(div>0);
-printf("The binary naumber for %d is %d",anyNum,sum);
+printf("The binary number for %d is %d",anyNum,sum);
 return 0;
 }
     
